@@ -1,5 +1,16 @@
 [
     {
+        "title": "Forge 9.11.1.965",
+        "version": "v1.4.00",
+        "description": "Added Forge .jar file support via Forge :D",
+        "date": "Tuesday, August 5th, 2025",
+        "icon": "mod-icons/grappling-gun.png",
+        "type": "site",
+        "notes": [
+            "Added Minecraft 1.6.4 with Forge (:"
+        ]
+    },
+    {
         "title": "Site Update: Modded",
         "version": "v1.4.00",
         "description": "Added patch notes, bug fixes, and integrated mods!",
@@ -11,7 +22,6 @@
             "Added the patch notes screen, it displays recent updates to the website, and launcher builds.",
             "Fixed a bug of unable to scroll with to many launchers selected.",
             "Fixed sizing bugs of website.",
-            "Added unmodified Minecraft original copies (1)."
         ]
     },
     {
