@@ -45,7 +45,7 @@ function generateprofile(game) {
     document.getElementById('gametitle').innerHTML = selectedGame.title;
     document.getElementById('gameversion').innerHTML = selectedGame.version;
     document.getElementById('gameicon').src = selectedGame.icon;
-    document.getElementById('playbutton').href = "#";
+    document.getElementById('playbutton').href = "javascript:void(0);";
     document.getElementById('playbutton').onclick = function() {
         openPopup(selectedGame.link);
     };
