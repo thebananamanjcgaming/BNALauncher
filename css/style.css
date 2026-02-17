@@ -114,7 +114,7 @@ hr {
 }
 
 .sidebarOptions:hover {
-    cursor: pointer;
+    cursor: default;
     background-color: var(--ui-main-light);
 }
 
@@ -172,7 +172,7 @@ hr {
 }
 
 .headerButtons:hover {
-    cursor: pointer;
+    cursor: default;
     color: white
 }
 
@@ -225,7 +225,7 @@ hr {
 }
 
 .dropdownSelector:hover {
-    cursor: pointer;
+    cursor: default;
     background-color: var(--ui-main-light);
 }
 
@@ -256,7 +256,7 @@ hr {
 }
 
 .playButton:hover {
-    cursor: pointer;
+    cursor: default;
     background-image: url(../assets/images/play-hover.png);
     transform: scale(1.05);
 }
@@ -332,7 +332,7 @@ hr {
 .modoption {
     display: flex;
     flex-direction: column;
-    cursor: pointer;
+    cursor: default;
     width: 18vw;
     border: 0.5vw solid var(--ui-main);
     transition: 0.1s;
@@ -447,7 +447,7 @@ hr {
     display: flex;
     gap: 2vw;
     align-items: center;
-    cursor: pointer;
+    cursor: default;
 }
 
 .installationBox {
@@ -505,7 +505,7 @@ hr {
     height: 2.5vh;
     appearance: none;
     border: 0.3vw solid #0c6e3d;
-    cursor: pointer;
+    cursor: default;
 }
 
 .versionBox:checked {
@@ -523,7 +523,7 @@ hr {
 .patchnote {
     display: flex;
     flex-direction: column;
-    cursor: pointer;
+    cursor: default;
     width: 17vw;
     background-color: black;
     transition: 0.1s;
@@ -566,7 +566,7 @@ hr {
 
 .notescreenheader svg {
     position: absolute;
-    cursor: pointer;
+    cursor: default;
     right: 1.5vw;
     width: 3vw;
     height: 3vw;
