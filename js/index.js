@@ -45,7 +45,10 @@ function generateprofile(game) {
     document.getElementById('gametitle').innerHTML = selectedGame.title;
     document.getElementById('gameversion').innerHTML = selectedGame.version;
     document.getElementById('gameicon').src = selectedGame.icon;
-    document.getElementById('playbutton').href = selectedGame.link;
+    document.getElementById('playbutton').href = "#";
+    document.getElementById('playbutton').onclick = function() {
+        openPopup(selectedGame.link);
+    };
     }
     if (!modslauncher) {
         localStorage.setItem("modslauncher", "");
