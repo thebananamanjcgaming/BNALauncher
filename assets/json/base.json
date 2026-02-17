@@ -1,27 +1,27 @@
 [
     {
-       "title": "Latest release",
+       "title": "Latest release (EAGLER)",
        "version": "1.12.2-u2",
        "icon": "./assets/images/mc-icons/grass.png",
        "link": "./mc/1.12.2/",
        "active": true
     },
     {
-       "title": "Latest release WASM",
+       "title": "Latest release WASM (EAGLER)",
        "version": "1.12.2-u2-wasm",
        "icon": "./assets/images/mc-icons/grass-wasm.png",
        "link": "./mc/1.12.2-wasm/",
        "active": true
     },
     {
-       "title": "Previous release",
+       "title": "Previous release (EAGLER)",
        "version": "1.8.8-u51",
        "icon": "./assets/images/mc-icons/dirt.png",
        "link": "./mc/1.8.8/",
        "active": true
     },
     {
-       "title": "Previous release WASM",
+       "title": "Previous release WASM (EAGLER)",
        "version": "1.8.8-u51-wasm",
        "icon": "./assets/images/mc-icons/dirt-wasm.png",
        "link": "./mc/1.8.8-wasm/",
@@ -35,91 +35,91 @@
        "active": false
     },
     {
-       "title": "Older release",
+       "title": "Older release (EAGLER)",
        "version": "1.5.2-sp2.01",
        "icon": "./assets/images/mc-icons/hopper.png",
        "link": "./mc/1.5.2/",
        "active": true
     },
     {
-       "title": "Eaglercraft 1.2.5",
+       "title": "Eaglercraft 1.2.5 (EAGLER)",
        "version": "1.2.5",
        "icon": "./assets/images/mc-icons/jungle-log.png",
        "link": "./mc/1.2.5/",
        "active": false
     },
     {
-       "title": "Eaglercraft Beta 1.7.3",
+       "title": "Eaglercraft Beta 1.7.3 (EAGLER)",
        "version": "b1.7.3",
        "icon": "./assets/images/mc-icons/sticky-piston.png",
        "link": "./mc/b1.7.3/",
        "active": false
     },
     {
-       "title": "Eaglercraft Beta 1.4",
+       "title": "Eaglercraft Beta 1.4 (EAGLER)",
        "version": "b1.4_01-25w21b",
        "icon": "./assets/images/mc-icons/trapped-chest.png",
        "link": "./mc/b1.4/",
        "active": false
     },
     {
-       "title": "Eaglercraft Beta 1.3",
+       "title": "Eaglercraft Beta 1.3 (EAGLER)",
        "version": "b1.3_01-23w49a",
        "icon": "./assets/images/mc-icons/red-bed.png",
        "link": "./mc/b1.3/",
        "active": false
     },
     {
-       "title": "Eaglercraft Beta 1.1",
+       "title": "Eaglercraft Beta 1.1 (EAGLER)",
        "version": "b1.1_02-25w20a",
        "icon": "./assets/images/mc-icons/oak-leaves.png",
        "link": "./mc/b1.1/",
        "active": false
     },
     {
-       "title": "Eaglercraft Alpha 1.2.6",
+       "title": "Minecraft Alpha 1.2.6 (UNMODIFIED)",
        "version": "a1.2.6",
        "icon": "./assets/images/mc-icons/jack-o-lantern.png",
        "link": "./mc/a1.2.6/",
        "active": false
     },
     {
-       "title": "Eaglercraft Alpha 1.1.2",
+       "title": "Eaglercraft Alpha 1.1.2 (EAGLER)",
        "version": "a1.1.2_01-25w20b",
        "icon": "./assets/images/mc-icons/clay.png",
        "link": "./mc/a1.1.2/",
        "active": false
     },
     {
-       "title": "Eaglercraft Infdev",
+       "title": "Eaglercraft Infdev (EAGLER)",
        "version": "inf",
        "icon": "./assets/images/mc-icons/monster-spawner.png",
        "link": "./mc/infdev/",
        "active": false
     },
     {
-       "title": "Eaglercraft Infdev WASM",
+       "title": "Eaglercraft Infdev WASM (EAGLER)",
        "version": "inf-wasm",
        "icon": "./assets/images/mc-icons/monster-spawner-wasm.png",
        "link": "./mc/infdev-wasm/",
        "active": false
     },
     {
-       "title": "Eaglercraft Indev",
+       "title": "Eaglercraft Indev (EAGLER)",
        "version": "inv",
        "icon": "./assets/images/mc-icons/furnace.png",
        "link": "./mc/indev/",
        "active": false
     },
     {
-       "title": "Eaglercraft Classic 0.30",
+       "title": "Minecraft Classic 0.30 (UNMODIFIED)",
        "version": "c0.30",
        "icon": "./assets/images/mc-icons/tnt.png",
        "link": "./mc/c0.30/",
        "active": false
     },
     {
-       "title": "Eaglercraft Classic 0.30 WASM",
+       "title": "Minecraft Classic 0.30 WASM (UNMODIFIED)",
        "version": "c0.30-wasm",
        "icon": "./assets/images/mc-icons/tnt-wasm.png",
        "link": "./mc/c0.30-wasm/",
