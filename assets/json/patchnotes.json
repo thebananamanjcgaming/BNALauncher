@@ -4,10 +4,11 @@
         "version": "v1.4.00",
         "description": "Added Forge .jar file support via Forge :D",
         "date": "Tuesday, August 5th, 2025",
-        "icon": "mod-icons/grappling-gun.png",
-        "type": "site",
+        "icon": "mod-icons/forge.png",
+        "type": "game",
         "notes": [
-            "Added Minecraft 1.6.4 with Forge (:"
+            "Added Minecraft 1.6.4 with Forge and MCP (:",
+            "Added 82 different modifications for the game (contains some helper libraries!)."
         ]
     },
     {
