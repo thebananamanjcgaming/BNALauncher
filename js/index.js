@@ -72,7 +72,10 @@ function generategames(path) {
                 document.getElementById('gametitle').innerHTML = game.title;
                 document.getElementById('gameversion').innerHTML = game.version;
                 document.getElementById('gameicon').src = game.icon;
-                document.getElementById('playbutton').href = game.link;
+                document.getElementById('playbutton').href = "javascript:void(0);";
+                document.getElementById('playbutton').onclick = function() {
+                    openPopup(game.link);
+                };
                 if (path === "./assets/json/base.json") {selectedGame1 = JSON.stringify(game); localStorage.setItem("basegame", selectedGame1)};
                 if (path === "./assets/json/modded.json") {selectedGame2 = JSON.stringify(game); localStorage.setItem("moddedgame", selectedGame2)};
                 if (path === "./assets/json/assisted.json") {selectedGame3 = JSON.stringify(game); localStorage.setItem("assisted", selectedGame3)};
