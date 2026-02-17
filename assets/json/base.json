@@ -42,7 +42,7 @@
        "active": true
     },
     {
-       "title": "Eaglercraft 1.2.5 (EAGLER)",
+       "title": "Minecraft 1.2.5 (UNMODIFIED)",
        "version": "1.2.5",
        "icon": "./assets/images/mc-icons/jungle-log.png",
        "link": "./mc/1.2.5/",
@@ -70,7 +70,7 @@
        "active": false
     },
     {
-       "title": "Eaglercraft Beta 1.1 (EAGLER)",
+       "title": "Minecraft Beta 1.1 (UNMODIFIED)",
        "version": "b1.1_02-25w20a",
        "icon": "./assets/images/mc-icons/oak-leaves.png",
        "link": "./mc/b1.1/",
@@ -91,21 +91,21 @@
        "active": false
     },
     {
-       "title": "Eaglercraft Infdev (EAGLER)",
+       "title": "Minecraft Infdev (UNMODIFIED)",
        "version": "inf",
        "icon": "./assets/images/mc-icons/monster-spawner.png",
        "link": "./mc/infdev/",
        "active": false
     },
     {
-       "title": "Eaglercraft Infdev WASM (EAGLER)",
+       "title": "Minecraft Infdev WASM (UNMODIFIED)",
        "version": "inf-wasm",
        "icon": "./assets/images/mc-icons/monster-spawner-wasm.png",
        "link": "./mc/infdev-wasm/",
        "active": false
     },
     {
-       "title": "Eaglercraft Indev (EAGLER)",
+       "title": "Minecraft Indev (UNMODIFIED)",
        "version": "inv",
        "icon": "./assets/images/mc-icons/furnace.png",
        "link": "./mc/indev/",
