@@ -83,7 +83,7 @@
                     <li id="header2" style="display: none;" class="headerButtons" onclick="modsheader()">Mods</li>
                     <li id="header3" class="headerButtons" onclick="faqsheader()">FAQ</li>
                     <li id="header4" class="headerButtons" onclick="installationheader()">Installations</li>
-                    <li id="header5" class="headerButtons" onclick="errorNA('skins')">Skins</li>
+                    <li id="header5" class="headerButtons" onclick="skinsheader()">Skins</li>
                     <li id="header6" class="headerButtons" onclick="patchnotesheader()">Patch Notes</li>
                 </ul>
         </div>
@@ -132,20 +132,28 @@
                     </div>
                 </div>
             <div id="dropdn" class="dropdownMenu" style="visibility: hidden;"></div>
-            <a id="playbutton" href="mc/1.12.2"><div id="mainbutton" class="playButton"></div></a>
+            <a id="playbutton" href="javascript:void(0);"><div id="mainbutton" class="playButton"></div></a>
             <div class="username centeredIcon bolded"><p id="username">Generic User</p></div>
         </div>
     </div>
     <script src="./js/index.js"></script>
     <script>
         function openPopup(url) {
-          var windowFeatures = 'width=600,height=400,resizable=yes,scrollbars=yes,status=yes';
-
-          var newWindow = window.open(url, '_blank', windowFeatures);
-          
-          if (newWindow) {
-            newWindow.focus();
-          }
+            var width = 600;
+            var height = 400;
+            
+            var left = (screen.width - width) / 2;
+            var top = (screen.height - height) / 2;
+            
+            var windowFeatures = 'width=' + width + ',height=' + height + 
+                                 ',top=' + top + ',left=' + left + 
+                                 ',resizable=yes,scrollbars=yes,status=yes';
+            
+            var newWindow = window.open(url, '_blank', windowFeatures);
+            
+            if (newWindow) {
+                newWindow.focus();
+            }
         }
     </script>
 </body>
