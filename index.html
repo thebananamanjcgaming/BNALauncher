@@ -132,10 +132,15 @@
                     </div>
                 </div>
             <div id="dropdn" class="dropdownMenu" style="visibility: hidden;"></div>
-            <a id="playbutton" href="mc/1.12.2"><div id="mainbutton" class="playButton"></div></a>
+            <a id="playbutton" href="" onclick="openPopup('mc/1.12.2')"><div id="mainbutton" class="playButton"></div></a>
             <div class="username centeredIcon bolded"><p id="username">Generic User</p></div>
         </div>
     </div>
     <script src="./js/index.js"></script>
+    <script>
+        function openPopup(url) {
+            window.open(url, 'popupWindow', 'width=600,height=400,scrollbars=yes');
+        }
+    </script>
 </body>
 </html>
