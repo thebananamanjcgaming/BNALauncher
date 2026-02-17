@@ -22,7 +22,7 @@
             "Added the mod screen, which allows users to select mods, and it'll be added to their eaglerforge launcher. Will override mods added in by user inside of launcher.",
             "Added the patch notes screen, it displays recent updates to the website, and launcher builds.",
             "Fixed a bug of unable to scroll with to many launchers selected.",
-            "Fixed sizing bugs of website.",
+            "Fixed sizing bugs of website."
         ]
     },
     {
