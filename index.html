@@ -138,10 +138,15 @@
     </div>
     <script src="./js/index.js"></script>
     <script>
-        document.querySelector("#openPopupLink").addEventListener("click", function(event) {
-            event.preventDefault(); // Prevents the default link behavior
-            window.open(this.href, 'Minecraft', 'width=600,height=400');
-        });
+        function openPopup(url) {
+          var windowFeatures = 'width=600,height=400,resizable=yes,scrollbars=yes,status=yes';
+
+          var newWindow = window.open(url, '_blank', windowFeatures);
+          
+          if (newWindow) {
+            newWindow.focus();
+          }
+        }
     </script>
 </body>
 </html>
