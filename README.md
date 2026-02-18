@@ -1,5 +1,5 @@
 # <img src=".github/assets/logo.png" alt="Ampler Logo" align="right" width="150px"> BNALauncher v1.4.00
- A minecraft themed launcher for Eaglercraft!<br>
+ A Minecraft-themed launcher for EaglerCraft!<br>
  Containing some of the best clients all in one place!
 
 
@@ -45,4 +45,4 @@
 
 <hr>
 
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__
+>__Finally, [here](https://bna-launcher.vercel.app) is the live version of the code!__
