@@ -17,8 +17,8 @@
  <hr>
 
 ## Installation
- Currently just download the repository for the source code!<br>
- Future plans for an offline file may be possible!
+ Currently, you can only download the repository for the source code.<br>
+ Future plans for offline file processing may be possible!
 
 <hr>
 
@@ -37,7 +37,7 @@
 - [x] Add FAQ screen
 - [x] Add Installations screen
 - [x] Add Mods screen
-- [ ] Add Skins screen
+- [x] Add Skins screen
 - [x] Add Patch Notes screen
 - [ ] Fix display errors
 - [ ] Offline launcher download?
